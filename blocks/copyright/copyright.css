@@ -1,0 +1,9 @@
+.copyright {
+  display: flex;
+  justify-content: end;
+}
+.copyright__link {
+  color: white;
+  font-size: 16px;
+  padding-right: 15px;
+}
