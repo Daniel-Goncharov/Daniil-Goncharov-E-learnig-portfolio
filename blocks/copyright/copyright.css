@@ -1,6 +1,7 @@
 .copyright {
   display: flex;
   justify-content: end;
+  padding-bottom: 25px;
 }
 .copyright__link {
   color: white;

@@ -5,15 +5,15 @@ const langArr = {
   },
   "menu-about" : {
     "ru": "Кто я",
-    "en": "Who I am"
+    "en": "About me"
   },
   "menu-projects" : {
     "ru": "Мои проекты",
     "en": "My projects"
   },
   "menu-contact" : {
-    "ru": "Контакты",
-    "en": "Contact"
+    "ru": "Мои Контакты",
+    "en": "Contact me"
   },
   "name" : {
     "ru": "Даниил Гончаров",
@@ -36,7 +36,7 @@ const langArr = {
     "en": "Instructional Work: I have developed dozens of training sessions and scenarios for e-learning courses."
   },
   "long-description-two" : {
-    "ru": "Программы для разработки онлайн курсов: Профессионально владею программами ispring, Courcelab, Articulate storyline и Figma. По мимо этого обладаю навыками программирования на JavaScript и разработки сайтов.",
+    "ru": "Программы для разработки онлайн курсов: Профессионально владею программами ispring, Courcelab, Articulate storyline и Figma. Помимо этого, обладаю навыками программирования на JavaScript и разработки сайтов.",
     "en": "Online Course Development Tools: Proficient in using programs such as iSpring, Courcelab, Articulate Storyline, and Figma for online course development. Additionally, I possess programming skills in JavaScript and website development."
   },
   "long-description-three" : {
@@ -104,8 +104,8 @@ const langArr = {
     "en": "An example of an interactive product course is Industrial Animal Feed. Audience - pet store salespeople"
   },
   "linkedin" : {
-    "ru": "Моя страница в LinkedIn",
-    "en": "My page in LinkedIn"
+    "ru": "Мой LinkedIn",
+    "en": "My LinkedIn"
   },
   "telegram" : {
     "ru": "Мой Telegram",
@@ -132,7 +132,7 @@ const langArr = {
     "en": "View website&nbsp;&rarr;"
   },
   "contact" : {
-    "ru": "Контакты",
-    "en": "Contact"
+    "ru": "Мои Контакты",
+    "en": "Contact me"
   },
 };
