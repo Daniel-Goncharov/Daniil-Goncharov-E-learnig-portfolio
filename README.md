@@ -15,4 +15,4 @@
 * Прокручивание слайдов свайпами на мобильных устройствах
 
 
-ссылка на проект в github-pages: https://daniel-goncharov.github.io/Portfolio-E-learning/#ru
+ссылка на проект в github-pages: https://daniel-goncharov.github.io/Daniil-Goncharov-E-learnig-portfolio/#ru
